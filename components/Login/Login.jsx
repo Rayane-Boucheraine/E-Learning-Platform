@@ -5,7 +5,7 @@ const Login = () => {
   return (
     <div className="flex gap-[240px] px-[80px] mt-[40px]">
       <div>
-        <h1 className="text-[#062144] text-[40px] font-bold">
+        <h1 className="text-[#062144] text-[40px] font-bold z-50">
           Elites School E-learning platform
         </h1>
         <Image src={img} className="absolute w-[550px] bottom-0" />

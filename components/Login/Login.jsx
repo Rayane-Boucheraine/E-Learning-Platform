@@ -5,10 +5,10 @@ const Login = () => {
   return (
     <div className="flex gap-[240px] px-[80px] mt-[40px]">
       <div>
-        <h1 className="text-[#062144] text-[40px] font-bold z-50">
+        <h1 className="text-[#062144] text-[40px] font-bold z-50 relative">
           Elites School E-learning platform
         </h1>
-        <Image src={img} className="absolute w-[550px] bottom-0" />
+        <Image src={img} className="absolute w-[500px] bottom-0" />
       </div>
       <div className="flex flex-col gap-[20px] mt-[26px]">
         <h2 className="text-[#062144] text-center text-[28px] not-italic font-bold leading-[24px]">
